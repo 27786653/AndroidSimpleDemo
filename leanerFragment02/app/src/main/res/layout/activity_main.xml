@@ -1,0 +1,21 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+
+    <fragment
+        android:id="@+id/fragement_List"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        class="com.example.fragment.ListFragment" />
+
+    <FrameLayout
+        android:id="@+id/fragment_layout_deilte"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="3"
+        android:background="?android:attr/detailsElementBackground" />
+
+</LinearLayout>
