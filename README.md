@@ -8,7 +8,7 @@
 目前：    
 	1.leanerFragment (Fragment)    
 	2.leanerJsonFormat (JsonFormat)   
-	2.leanerAsyncTask  
-	3.leanerVolley  
+	3.LeanerJpush  (集成极光推送小案例)  
+	4.LeanerGsonOrFastJson (使用第三方的Json解析库)  
 
 
