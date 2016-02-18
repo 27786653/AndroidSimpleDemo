@@ -1,0 +1,11 @@
+问题：
+   因项目结构问题AndroidStudio引用第三方库也有所不同。
+解决方案：
+   例：引用pulltorefresh的第三方库
+        File—Import Module，
+        选择pulltorefresh的library文件夹，然后下一步完成。
+        然后右击项目，选择Open Module Setting
+        选择modules节点下的app,选择右侧的dependencies
+        选择+添加之前的library
+
+        但是貌似有时候会出现问题

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.refreshdemo.leanerputtorefresh02.MainActivity">
+    <TextView
+        android:id="@+id/titletext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="请上下拉刷新加载ListView项"/>
+    <com.handmark.pulltorefresh.library.PullToRefreshListView
+        android:layout_below="@+id/titletext"
+        android:id="@+id/pull_to_refresh_listview"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        />
+
+
+</RelativeLayout>
