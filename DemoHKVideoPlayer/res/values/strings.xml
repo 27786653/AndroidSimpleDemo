@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">海康视频监控</string>
+    <string name="tv_connect_cam">正在连接摄像头……</string>
+    <string name="tv_connect_cam_error">无法连接，请确认摄像头是否开启。</string>
+
+</resources>

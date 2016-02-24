@@ -1,0 +1,114 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  Internal Error (javaClasses.cpp:136), pid=9712, tid=11736
+#  fatal error: Invalid layout of preloaded class
+#
+# JRE version:  (7.0_67-b01) (build )
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (24.65-b04 mixed mode windows-amd64 compressed oops)
+# Failed to write core dump. Minidumps are not enabled by default on client versions of Windows
+#
+# If you would like to submit a bug report, please visit:
+#   http://bugreport.sun.com/bugreport/crash.jsp
+#
+
+---------------  T H R E A D  ---------------
+
+Current thread (0x0000000002f5e000):  JavaThread "Unknown thread" [_thread_in_vm, id=11736, stack(0x0000000002d70000,0x0000000002e70000)]
+
+Stack: [0x0000000002d70000,0x0000000002e70000]
+[error occurred during error reporting (printing stack bounds), id 0xc0000005]
+
+
+---------------  P R O C E S S  ---------------
+
+Java Threads: ( => current thread )
+
+Other Threads:
+
+=>0x0000000002f5e000 (exited) JavaThread "Unknown thread" [_thread_in_vm, id=11736, stack(0x0000000002d70000,0x0000000002e70000)]
+
+VM state:not at safepoint (not fully initialized)
+
+VM Mutex/Monitor currently owned by a thread: None
+
+GC Heap History (0 events):
+No events
+
+Deoptimization events (0 events):
+No events
+
+Internal exceptions (0 events):
+No events
+
+Events (10 events):
+Event: 0.011 loading class 0x0000000002fa5ae0 done
+Event: 0.011 loading class 0x0000000002fa5500 done
+Event: 0.011 loading class 0x0000000002fa54e0
+Event: 0.011 loading class 0x0000000002fad630
+Event: 0.011 loading class 0x0000000002fad630 done
+Event: 0.011 loading class 0x0000000002fad660
+Event: 0.011 loading class 0x0000000002fad660 done
+Event: 0.011 loading class 0x0000000002fad690
+Event: 0.011 loading class 0x0000000002fad690 done
+Event: 0.011 loading class 0x0000000002fa54e0 done
+
+
+Dynamic libraries:
+0x00007ff7bac00000 - 0x00007ff7bac33000 	C:\Program Files\Java\jre7\bin\javaw.exe
+0x00007ff8465c0000 - 0x00007ff846781000 	C:\WINDOWS\SYSTEM32\ntdll.dll
+0x00007ff846230000 - 0x00007ff8462dd000 	C:\WINDOWS\system32\KERNEL32.DLL
+0x00007ff843ab0000 - 0x00007ff843c8d000 	C:\WINDOWS\system32\KERNELBASE.dll
+0x00007ff846380000 - 0x00007ff846426000 	C:\WINDOWS\system32\ADVAPI32.dll
+0x00007ff844410000 - 0x00007ff8444ad000 	C:\WINDOWS\system32\msvcrt.dll
+0x00007ff846320000 - 0x00007ff84637b000 	C:\WINDOWS\system32\sechost.dll
+0x00007ff8446d0000 - 0x00007ff8447f6000 	C:\WINDOWS\system32\RPCRT4.dll
+0x00007ff8448f0000 - 0x00007ff844a3e000 	C:\WINDOWS\system32\USER32.dll
+0x00007ff844a40000 - 0x00007ff844bc6000 	C:\WINDOWS\system32\GDI32.dll
+0x00007ff83dc30000 - 0x00007ff83dea4000 	C:\WINDOWS\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.10240.16384_none_f41f7b285750ef43\COMCTL32.dll
+0x00007ff8462e0000 - 0x00007ff846316000 	C:\WINDOWS\system32\IMM32.DLL
+0x00007ff843e80000 - 0x00007ff843fdc000 	C:\WINDOWS\system32\MSCTF.dll
+0x000000005a400000 - 0x000000005a4d2000 	C:\Program Files\Java\jre7\bin\msvcr100.dll
+0x0000000059c20000 - 0x000000005a3f2000 	C:\Program Files\Java\jre7\bin\server\jvm.dll
+0x00007ff844600000 - 0x00007ff844608000 	C:\WINDOWS\system32\PSAPI.DLL
+0x00007ff840dd0000 - 0x00007ff840df3000 	C:\WINDOWS\SYSTEM32\WINMM.dll
+0x00007ff83dab0000 - 0x00007ff83dab9000 	C:\WINDOWS\SYSTEM32\WSOCK32.dll
+0x00007ff846100000 - 0x00007ff846169000 	C:\WINDOWS\system32\WS2_32.dll
+0x00007ff840da0000 - 0x00007ff840dcc000 	C:\WINDOWS\SYSTEM32\WINMMBASE.dll
+0x00007ff8448e0000 - 0x00007ff8448e8000 	C:\WINDOWS\system32\NSI.dll
+0x00007ff843090000 - 0x00007ff8430d4000 	C:\WINDOWS\system32\cfgmgr32.dll
+0x00007ff8418c0000 - 0x00007ff8418e7000 	C:\WINDOWS\SYSTEM32\DEVOBJ.dll
+0x0000000059c10000 - 0x0000000059c1f000 	C:\Program Files\Java\jre7\bin\verify.dll
+0x0000000059be0000 - 0x0000000059c08000 	C:\Program Files\Java\jre7\bin\java.dll
+0x00000000592d0000 - 0x0000000059305000 	C:\Program Files\Java\jre7\bin\jdwp.dll
+0x00000000592c0000 - 0x00000000592c8000 	C:\Program Files\Java\jre7\bin\npt.dll
+0x0000000059bc0000 - 0x0000000059bd5000 	C:\Program Files\Java\jre7\bin\zip.dll
+
+VM Arguments:
+jvm_args: -agentlib:jdwp=transport=dt_socket,suspend=y,address=localhost:65198 -Dfile.encoding=UTF-8 -Xbootclasspath:H:\adb\adt-bundle-windows-x86_64-20140321\sdk\platforms\android-19\android.jar 
+java_command: com.stone.firstpage.MainActivity
+Launcher Type: SUN_STANDARD
+
+Environment Variables:
+JAVA_HOME=C:\Program Files\Java\jdk1.7.0_67
+CLASSPATH=.;C:\Program Files\Java\jdk1.7.0_67\lib
+PATH=H:\APP\product\11.2.0\dbhome_1\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\DTS\Binn\;C:\Program Files (x86)\Microsoft SQL Server\Client SDK\ODBC\110\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\120\Tools\Binn\ManagementStudio\;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Python27;H:\Mysql\bin;C:\Program Files\Java\jdk1.7.0_67\bin;C:\maven\apache-maven-3.3.9-bin\apache-maven-3.3.9\bin;C:\Ant\bin;C:\Cocos\frameworks\cocos2d-x-3.5\tools\cocos2d-console\bin;C:\Users\李森林\AppData\Roaming\npm
+USERNAME=李森林
+OS=Windows_NT
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 58 Stepping 9, GenuineIntel
+
+
+
+---------------  S Y S T E M  ---------------
+
+OS: Windows 8.1 , 64 bit Build 9600 
+
+CPU:total 4 (2 cores per cpu, 2 threads per core) family 6 model 58 stepping 9, cmov, cx8, fxsr, mmx, sse, sse2, sse3, ssse3, sse4.1, sse4.2, popcnt, avx, aes, erms, ht, tsc, tscinvbit, tscinv
+
+Memory: 4k page, physical 8264500k(2390180k free), swap 12411180k(1376432k free)
+
+vm_info: Java HotSpot(TM) 64-Bit Server VM (24.65-b04) for windows-amd64 JRE (1.7.0_67-b01), built on Jul 25 2014 08:55:00 by "java_re" with unknown MS VC++:1600
+
+time: Tue Feb 02 17:52:18 2016
+elapsed time: 0 seconds
+
