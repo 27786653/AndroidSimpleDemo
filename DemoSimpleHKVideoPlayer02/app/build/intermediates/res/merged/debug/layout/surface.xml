@@ -1,0 +1,18 @@
+<LinearLayout android:layout_height="wrap_content" android:layout_width="fill_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android"   >
+	 <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:gravity="center" android:orientation="horizontal" android:background="@drawable/general_top_bg">
+	     <ImageView android:id="@+id/start" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/playback_fullscreen_pause_sel"/>
+	       <ImageView android:id="@+id/capture" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/fullscreen_capture_sel"/> 
+	       <ImageView android:id="@+id/auto_sel" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/fullscreen_ptz_auto_sel"/> 
+	       <ImageView android:id="@+id/focus_sel" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/fullscreen_ptz_focus_sel"/> 
+	       <ImageView android:id="@+id/point_sel" android:layout_height="wrap_content" android:layout_width="wrap_content" android:src="@drawable/fullscreen_ptz_preset_point_sel"/>
+	 </LinearLayout>    
+	<RelativeLayout   
+	         android:layout_height="fill_parent"   
+	         android:layout_width="fill_parent">  
+	         <SurfaceView
+			        android:id="@+id/surfaceView"
+			        android:layout_width="fill_parent"
+			        android:layout_height="fill_parent"
+			        />    
+	</RelativeLayout>
+</LinearLayout>

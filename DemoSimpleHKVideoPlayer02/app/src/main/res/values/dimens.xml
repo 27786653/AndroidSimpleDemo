@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <dimen name="dividerHeight">1.0sp</dimen>
+    <dimen name="marginleft">5.0dip</dimen>
+    <dimen name="marginright">5.0dip</dimen>
+    <dimen name="check_width">16.0dip</dimen>
+    <dimen name="check_height">15.0dip</dimen>
+    <dimen name="login_text_size">26.0sp</dimen>
+    <dimen name="listitem_image_height">48.0dip</dimen>
+    <dimen name="grid_item_text_size">20.0sp</dimen>
+    <dimen name="grid_item_text_padding_bottom">8.0dip</dimen>
+</resources>

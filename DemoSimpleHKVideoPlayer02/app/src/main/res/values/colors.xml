@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffffff</color>
+    <color name="trant">#00ffffff</color>
+    <color name="holo_blue">#ff33b5e5</color>
+    <color name="progress_blue">#ffc8c8c8</color>
+    <color name="toast_text_shadow">#bb000000</color>
+    <color name="toast_text_color">#fff68807</color>
+    <color name="blue">#ff005ffb</color>
+    <color name="orange">#ffffa60a</color>
+    <color name="green">#ff30ff00</color>
+    <color name="red_orange">#ffee4000</color>
+    <color name="purple">#ffb23aee</color>
+    <color name="dan_opange">#fffff4b9</color>
+    <color name="shen_opange">#ffffe86f</color>
+    <color name="transparent">#00000000</color>
+</resources>

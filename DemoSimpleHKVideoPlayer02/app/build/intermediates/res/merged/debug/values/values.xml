@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#ff005ffb</color>
+    <color name="dan_opange">#fffff4b9</color>
+    <color name="green">#ff30ff00</color>
+    <color name="holo_blue">#ff33b5e5</color>
+    <color name="orange">#ffffa60a</color>
+    <color name="progress_blue">#ffc8c8c8</color>
+    <color name="purple">#ffb23aee</color>
+    <color name="red_orange">#ffee4000</color>
+    <color name="shen_opange">#ffffe86f</color>
+    <color name="toast_text_color">#fff68807</color>
+    <color name="toast_text_shadow">#bb000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="trant">#00ffffff</color>
+    <color name="white">#ffffffff</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="check_height">15.0dip</dimen>
+    <dimen name="check_width">16.0dip</dimen>
+    <dimen name="dividerHeight">1.0sp</dimen>
+    <dimen name="grid_item_text_padding_bottom">8.0dip</dimen>
+    <dimen name="grid_item_text_size">20.0sp</dimen>
+    <dimen name="listitem_image_height">48.0dip</dimen>
+    <dimen name="login_text_size">26.0sp</dimen>
+    <dimen name="marginleft">5.0dip</dimen>
+    <dimen name="marginright">5.0dip</dimen>
+    <string name="app_name">Smarthome</string>
+    <string name="background">@drawable/main_background</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="ButtonStyleAdd">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_add_selector</item>
+        <item name="android:layout_marginLeft">20.0dip</item>
+        <item name="android:layout_marginRight">20.0dip</item>
+    </style>
+    <style name="ButtonStyleAdd1">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_add_selector</item>
+    </style>
+    <style name="CheckBoxStyle" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/btn_check_holo_dark</item>
+    </style>
+    <style name="CheckBoxStyle.Login" parent="@style/CheckBoxStyle">
+        <item name="android:layout_width">@dimen/check_width</item>
+        <item name="android:layout_height">@dimen/check_height</item>
+        <item name="android:button">@drawable/checkbox_selector</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textColorHighlight">@color/blue</item>
+        <item name="android:background">@drawable/edittext_selector</item>
+        <item name="android:paddingLeft">4.0dip</item>
+        <item name="android:paddingRight">4.0dip</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="GridViewStyle">
+        <item name="android:gravity">center</item>
+        <item name="android:scrollbars">none</item>
+        <item name="android:layout_marginLeft">15.0dip</item>
+        <item name="android:layout_marginRight">15.0dip</item>
+        <item name="android:horizontalSpacing">15.0dip</item>
+        <item name="android:verticalSpacing">8.0dip</item>
+    </style>
+    <style name="MyDialogStyle">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+    <style name="MyDialogStyleTop" parent="android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">true</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@android:color/transparent</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">false</item><!--模糊-->        
+     </style>
+    <style name="TextViewStyleGridItem" parent="@android:style/TextAppearance">
+        <item name="android:textSize">@dimen/grid_item_text_size</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    <style name="listviewStyle">
+        <item name="android:fadingEdge">none</item>
+        <item name="android:layout_marginTop">@dimen/marginleft</item>
+        <item name="android:layout_marginBottom">@dimen/marginright</item>
+        <item name="android:listSelector">@drawable/list_selector_holo_light</item>
+        <item name="android:cacheColorHint">@null</item>
+        <item name="android:divider">@drawable/listview_divider</item>
+        <item name="android:dividerHeight">@dimen/dividerHeight</item>
+    </style>
+    <style name="main_tab_bottom">
+        <item name="android:textSize">10.0dip</item>
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:gravity">center_horizontal</item>  
+        <item name="android:background">@drawable/home_btn_bg</item>
+        <item name="android:paddingTop">5.0dip</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:button">@null</item>  
+        <item name="android:singleLine">true</item>
+        <item name="android:drawablePadding">2.0dip</item>
+        <item name="android:layout_weight">1.0</item>
+    </style>
+    <style name="textViewStyle" parent="@android:style/TextAppearance">
+        <item name="android:textSize">17.0sp</item>
+    </style>
+</resources>

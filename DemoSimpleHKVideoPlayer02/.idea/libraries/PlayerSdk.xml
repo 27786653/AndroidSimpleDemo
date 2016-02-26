@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PlayerSdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/PlayerSdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

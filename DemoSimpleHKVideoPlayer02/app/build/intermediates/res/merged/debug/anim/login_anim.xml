@@ -1,0 +1,7 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+<item android:drawable="@drawable/home_title" android:duration="1000"></item>
+<item android:drawable="@drawable/home_title_midle" android:duration="1000"></item>
+<item android:drawable="@drawable/home_title_less" android:duration="1000"></item>
+<item android:drawable="@drawable/home_title_none" android:duration="1000"></item>
+</animation-list>   

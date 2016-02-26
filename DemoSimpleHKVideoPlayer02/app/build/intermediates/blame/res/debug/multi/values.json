@@ -1,0 +1,1702 @@
+[
+    {
+        "outputFile": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 40,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 46,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 46,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 41,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 41,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 45,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 45,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 42,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 42,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 49,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 49,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 42,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 42,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 46,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 46,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 47,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 47,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 52,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 52,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 53,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 53,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 47,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 47,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 41,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 41,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 41,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 57,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 55,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 46,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 46,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 45,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 45,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 45,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 45,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 62,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 594,
+                        "endColumn": 62,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 52,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 52,
+                        "endOffset": 589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 55,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 55,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 48,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 48,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 43,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 43,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 44,
+                    "endOffset": 1259
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 44,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1264,
+                    "endColumn": 46,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 64,
+                    "endOffset": 1371
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 64,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1376,
+                    "endColumn": 52,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endColumn": 50,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 50,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2257,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2616,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2694
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 676,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2699,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3395
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3400,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 3790
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3916,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 4306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3795,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endLine": 94,
+                    "endColumn": 13,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2851,
+                        "endLine": 68,
+                        "endColumn": 13,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4893,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4316,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 5632
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3388,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 3910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5637,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4539,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 5272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 982
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 40,
+                    "endOffset": 91
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 40,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 96,
+                    "endColumn": 46,
+                    "endOffset": 138
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 46,
+                        "endOffset": 600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 143,
+                    "endColumn": 41,
+                    "endOffset": 180
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 426,
+                        "endColumn": 41,
+                        "endOffset": 463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 185,
+                    "endColumn": 45,
+                    "endOffset": 226
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 139,
+                        "endColumn": 45,
+                        "endOffset": 180
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 231,
+                    "endColumn": 42,
+                    "endOffset": 269
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 42,
+                        "endOffset": 421
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 274,
+                    "endColumn": 49,
+                    "endOffset": 319
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 49,
+                        "endOffset": 230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 324,
+                    "endColumn": 42,
+                    "endOffset": 362
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 42,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 367,
+                    "endColumn": 46,
+                    "endOffset": 409
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 468,
+                        "endColumn": 46,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 414,
+                    "endColumn": 47,
+                    "endOffset": 457
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 605,
+                        "endColumn": 47,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 462,
+                    "endColumn": 52,
+                    "endOffset": 510
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 289,
+                        "endColumn": 52,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 515,
+                    "endColumn": 53,
+                    "endOffset": 564
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 235,
+                        "endColumn": 53,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 569,
+                    "endColumn": 47,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 653,
+                        "endColumn": 47,
+                        "endOffset": 696
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 41,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 97,
+                        "endColumn": 41,
+                        "endOffset": 134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 41,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 41,
+                        "endOffset": 92
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 57,
+                    "endOffset": 754
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 759,
+                    "endColumn": 55,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 46,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 389,
+                        "endColumn": 46,
+                        "endOffset": 431
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 45,
+                    "endOffset": 903
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 45,
+                        "endOffset": 384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 908,
+                    "endColumn": 45,
+                    "endOffset": 949
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 208,
+                        "endColumn": 45,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 954,
+                    "endColumn": 62,
+                    "endOffset": 1012
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 594,
+                        "endColumn": 62,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1017,
+                    "endColumn": 52,
+                    "endOffset": 1065
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 541,
+                        "endColumn": 52,
+                        "endOffset": 589
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1070,
+                    "endColumn": 55,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 485,
+                        "endColumn": 55,
+                        "endOffset": 536
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 48,
+                    "endOffset": 1170
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 436,
+                        "endColumn": 48,
+                        "endOffset": 480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1175,
+                    "endColumn": 43,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 43,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 44,
+                    "endOffset": 1259
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 44,
+                        "endOffset": 338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1264,
+                    "endColumn": 46,
+                    "endOffset": 1306
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 46,
+                        "endOffset": 98
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1311,
+                    "endColumn": 64,
+                    "endOffset": 1371
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 64,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1376,
+                    "endColumn": 52,
+                    "endOffset": 1424
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 154,
+                        "endColumn": 52,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1429,
+                    "endColumn": 50,
+                    "endOffset": 1475
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 103,
+                        "endColumn": 50,
+                        "endOffset": 149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1480,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 1766
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1771,
+                    "endLine": 40,
+                    "endColumn": 12,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1931,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2257,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 2611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 2616,
+                        "endLine": 60,
+                        "endColumn": 12,
+                        "endOffset": 2846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 2694
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 5,
+                        "startOffset": 676,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 2699,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 2985
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1398,
+                        "endLine": 38,
+                        "endColumn": 12,
+                        "endOffset": 1684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2990,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 3395
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 988,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 1393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 3400,
+                    "endLine": 76,
+                    "endColumn": 12,
+                    "endOffset": 3790
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3916,
+                        "endLine": 87,
+                        "endColumn": 12,
+                        "endOffset": 4306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3795,
+                    "endLine": 86,
+                    "endColumn": 12,
+                    "endOffset": 4358
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1689,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 2252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 4363,
+                    "endLine": 94,
+                    "endColumn": 13,
+                    "endOffset": 4888
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2851,
+                        "endLine": 68,
+                        "endColumn": 13,
+                        "endOffset": 3377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 4893,
+                    "endLine": 98,
+                    "endColumn": 12,
+                    "endOffset": 5105
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 4316,
+                        "endLine": 92,
+                        "endColumn": 12,
+                        "endOffset": 4528
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endLine": 107,
+                    "endColumn": 12,
+                    "endOffset": 5632
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3388,
+                        "endLine": 78,
+                        "endColumn": 12,
+                        "endOffset": 3910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 5637,
+                    "endLine": 121,
+                    "endColumn": 12,
+                    "endOffset": 6370
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 4539,
+                        "endLine": 107,
+                        "endColumn": 12,
+                        "endOffset": 5272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 6375,
+                    "endLine": 124,
+                    "endColumn": 12,
+                    "endOffset": 6507
+                },
+                "from": {
+                    "file": "D:\\yufeijiaju-master\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 850,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 982
+                    }
+                }
+            }
+        ]
+    }
+]

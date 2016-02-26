@@ -1,0 +1,390 @@
+[
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_channelup_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_channelup_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_stop_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_stop_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_pressed_holo_dark.png",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_divider.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\listview_divider.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qita_guan_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qita_guan_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\on.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\on.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_tvmenu_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_tvmenu_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dropdown_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_dropdown_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_editbox.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\login_editbox.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_clear_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_clear_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\off.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector1.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_selector1.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_clear_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_clear_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_volumedown_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_volumedown_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\login_editbox.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\login_editbox.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_normal_holo_dark.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_off_normal_holo_dark.png"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_home_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_home_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qita_kai_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qita_kai_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\checkbox_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\checkbox_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\general_btn_pressed_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\general_btn_pressed_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qita_kai_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qita_kai_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listview_divider.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\listview_divider.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_define_color.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\seekbar_define_color.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_green.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_style_green.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_submenu_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_submenu_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_back_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_back_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qitasj_layer2.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qitasj_layer2.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_first_item.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_first_item.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_channeldown_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_channeldown_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_pressed_holo_dark.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_off_pressed_holo_dark.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_holo_light.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_submenu_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_submenu_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qita_guan_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qita_guan_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_off_normal_holo_dark.png",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_off_normal_holo_dark.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pwd_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_pwd_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_dark.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_holo_dark.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qitasj_layer2.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qitasj_layer2.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home_btn_bg.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\home_btn_bg.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_volumedown_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_volumedown_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector_background_transition_holo_light.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_power_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_power_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_longpressed_holo.9.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_item.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_item.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\general_btn_pressed_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\general_btn_pressed_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_focused_holo.9.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_focused_holo.9.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\general_btn_pressed.9.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\general_btn_pressed.9.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_pressed_holo_light.9.png",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topview_layout_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\topview_layout_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_volumeup_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_volumeup_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_check_holo_dark.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_check_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_single_item.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_single_item.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_channeldown_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_channeldown_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\topview_layout_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\topview_layout_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qitasj_layer1.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qitasj_layer1.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_demo_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_demo_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_volumeup_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_volumeup_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_mute_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_mute_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_define_color.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\seekbar_define_color.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_demo_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_demo_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_tvmenu_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_tvmenu_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\seekbar_style.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_stop_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_stop_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_dropdown_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_dropdown_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_add_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_add_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_mute_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_mute_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\on.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\on.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_back_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_back_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_add_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_add_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_channelup_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_channelup_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\edittext_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_home_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_home_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\qitasj_layer1.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\qitasj_layer1.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\remoter_power_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\remoter_power_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_style_white.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_style_white.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preference_last_item.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\preference_last_item.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_selector1.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\button_selector1.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pwd_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_pwd_selector.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mm_submenu.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\mm_submenu.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\off.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_selector.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\edittext_selector.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_bg.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\drawable\\layout_bg.xml"
+    }
+]

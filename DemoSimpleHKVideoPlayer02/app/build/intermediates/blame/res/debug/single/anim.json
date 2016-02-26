@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\logo_anim.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\anim\\logo_anim.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\login_anim.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\anim\\login_anim.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\logo_anim.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\anim\\logo_anim.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\login_anim.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\anim\\login_anim.xml"
+    },
+    {
+        "merged": "I:\\comp\\company_04\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alarm_anim.xml",
+        "source": "I:\\comp\\company_04\\yufeijiaju-master\\app\\src\\main\\res\\anim\\alarm_anim.xml"
+    },
+    {
+        "merged": "D:\\yufeijiaju-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\alarm_anim.xml",
+        "source": "D:\\yufeijiaju-master\\app\\src\\main\\res\\anim\\alarm_anim.xml"
+    }
+]
