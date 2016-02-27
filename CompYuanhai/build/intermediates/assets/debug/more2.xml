@@ -1,0 +1,110 @@
+<YHZL name="工作">
+    
+    <item name="公共服务">
+        <line>
+            <!--<button name="缴物业费" image="image1" url_id="a1001" />-->
+          <button name="物业通知" image="image1" url_id="WY001" />
+            <!--<button name="缴停车费" image="image2" url_id="a1002" />-->
+          <button name="缴费查询" image="image2" url_id="WY002" />
+          <button name="投诉建议" image="i416_16" url_id="a1003" />
+          <button name="工程报修" image="image3" url_id="a1004" />
+        </line>
+    </item>
+    
+    <item name="园区社区运营服务（顾问）">
+        <line>
+            <button name="项目管理" image="image8" url_id="b1001" />
+            <button name="公司管理" image="image4" url_id="b1002" />
+          <button name="专项管理" image="image0" url_id="b1003" />
+          <button name="前期介入" image="image7" url_id="b1004" />
+        </line>
+    </item>
+
+
+
+  <item name="资产服务">
+    <line>
+      <button name="资产托管" image="image1" url_id="c1001" />
+      <button name="资产经营" image="image0" url_id="c1002" />
+      <button name="资产代租" image="i415_340" url_id="c1003" />
+      <button name="资产代售" image="i415_290" url_id="c1004" />
+    </line>
+  </item>
+
+  <item name="物业综合服务">
+    <line>
+      <button name="安防服务" image="i416_270" url_id="d1001" />
+      <button name="工程服务" image="i415_430" url_id="d1002" />
+      <button name="客户服务" image="i415_160" url_id="d1003" />
+      <button name="绿化保洁" image="i4_05" url_id="d1004" />
+    </line>
+  </item>
+
+  <item name="阳光政务">
+    <line>
+      <button name="工商税务" image="image15" url_id="e1001" />
+      <button name="项目申报" image="image11" url_id="e1002" />
+      <button name="资质认定" image="image14" url_id="e1003" />
+      <button name="社保工伤" image="i4_13" url_id="e1004" />
+    </line>
+  </item>
+
+  <item name="专项服务">
+    <line>
+      <button name="法律服务" image="image6" url_id="f1001" />
+      <button name="预订服务" image="i416_120" url_id="f1002" />
+      <button name="集中采购" image="i415_370" url_id="f1003" />
+      <button name="活动策划" image="image13" url_id="f1004" />
+    </line>
+  </item>
+
+  <item name="财税服务">
+    <line>
+      <button name="财税顾问" image="image15" url_id="g1001" />
+      <button name="专项筹划" image="image16" url_id="g1002" />
+      <button name="专项审计" image="image17" url_id="g1003" />
+      <button name="会计代理" image="image5" url_id="g1004" />
+    </line>
+    <line>
+      <button name="纳税申报" image="image4" url_id="g1005" />
+      <button name="工商证照" image="image11" url_id="g1006" />
+      <button name="专利申请" image="image14" url_id="g1007" />
+      <button name="财税培训" image="image18" url_id="g1008" />
+    </line>
+    
+  </item>
+
+  <item name="人才服务">
+    <line>
+      <button name="人才库" image="image13" url_id="h1001" />
+      <button name="人才外包" image="image6" url_id="h1002" />
+      <button name="劳务派遣" image="i415_430" url_id="h1003" />
+      <button name="人事代理" image="i416_120" url_id="h1004" />
+    </line>
+  </item>
+
+  <item name="信息工程">
+    <line>
+      <button name="智能工程" image="i4_13" url_id="i1001" />
+      <button name="智能办公" image="i416_22" url_id="i1002" />
+      <button name="金蝶软件" image="i416_280" url_id="i1003" />
+      <button name="行业软件" image="i415_120" url_id="i1004" />
+    </line>
+    <line>
+      <button name="电子商务" image="image10" url_id="i1005" />
+      <button name="微信推广" image="i416_05" url_id="i1006" />
+      <button name="短信租用" image="i415_290" url_id="i1007" />
+      <button name="空间租用" image="i416_120" url_id="i1008" />
+    </line>
+  </item>
+
+  <item name="呼叫中心">
+    <line>
+      <button name="坐席租用" image="image6" url_id="j1001" />
+      <button name="电话营销" image="i416_13" url_id="j1002" />
+      <button name="定制服务" image="i416_42" url_id="j1003" />
+      <button name="流程外包" image="image16" url_id="j1004" />
+    </line>
+  </item>
+  
+</YHZL>

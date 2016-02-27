@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/white">
+     <RelativeLayout
+        android:id="@+id/more_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar" >
+        
+	 	<TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/seting" 
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:textColor="@color/working_text_color"/>
+ 	</RelativeLayout> 
+    
+<LinearLayout 
+    android:id="@+id/seting"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dip"
+    android:layout_below="@id/more_rlayout">
+    <ImageView
+         android:id="@+id/seting_image1"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="8dip" 
+         android:background="@drawable/more"/>
+    <RelativeLayout 
+        android:id="@+id/seting_re1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        >
+        <ImageView 
+            android:id="@+id/seting_re1_image1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/seting_image1"
+            android:layout_centerVertical="true"/>
+        <TextView 
+            android:id="@+id/seting_re1_tv1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:textColor="@color/working_text_color1"
+            android:layout_toRightOf="@id/seting_re1_image1"
+            android:text="我的账号"/>
+        <ImageView 
+            android:id="@+id/seting_re1_image12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/more_image"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>
+
+
+<LinearLayout 
+    android:id="@+id/seting2"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dip"
+    android:layout_below="@id/seting">
+    <ImageView
+         android:id="@+id/seting_image2"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="8dip" 
+         android:background="@drawable/more"/>
+    <RelativeLayout 
+        android:id="@+id/seting_re3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        >
+        <ImageView 
+            android:id="@+id/seting_re1_image2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/seting_image1"
+            android:layout_centerVertical="true"/>
+        <TextView 
+            android:id="@+id/seting_re1_tv2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:textColor="@color/working_text_color1"
+            android:layout_toRightOf="@id/seting_re1_image2"
+            android:text="修改密码"/>
+        <ImageView 
+            android:id="@+id/seting_re1_image22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/more_image"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>
+
+<LinearLayout 
+    android:id="@+id/seting3"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dip"
+    android:layout_below="@id/seting2">
+    <ImageView
+         android:id="@+id/seting_image3"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="8dip" 
+         android:background="@drawable/more"/>
+    <RelativeLayout 
+        android:id="@+id/seting_re2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        >
+        <ImageView 
+            android:id="@+id/seting_re1_image3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/seting_image1"
+            android:layout_centerVertical="true"/>
+        <TextView 
+            android:id="@+id/seting_re1_tv3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:textColor="@color/working_text_color1"
+            android:layout_toRightOf="@id/seting_re1_image3"
+            android:text="邀请注册"/>
+        <ImageView 
+            android:id="@+id/seting_re1_image32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/more_image"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>
+
+<LinearLayout 
+    android:id="@+id/seting4"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dip"
+    android:layout_below="@id/seting3">
+    <ImageView
+         android:id="@+id/seting_image4"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="8dip" 
+         android:background="@drawable/more"/>
+    <RelativeLayout 
+        android:id="@+id/seting_re4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        >
+        <ImageView 
+            android:id="@+id/seting_re1_image4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/seting_image1"
+            android:layout_centerVertical="true"/>
+        <TextView 
+            android:id="@+id/seting_re1_tv4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:textColor="@color/working_text_color1"
+            android:layout_toRightOf="@id/seting_re1_image4"
+            android:text="更新版本"/>
+        <ImageView 
+            android:id="@+id/seting_re1_image42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/more_image"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>
+
+<LinearLayout 
+    android:id="@+id/seting5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_marginLeft="20dip"
+    android:layout_below="@id/seting4">
+
+    <ImageView
+        android:id="@+id/ImageView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dip"
+        android:background="@drawable/more" />
+    <RelativeLayout 
+        android:id="@+id/seting_re5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dip"
+        >
+        <ImageView 
+            android:id="@+id/seting_re1_image5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="8dip"
+            android:background="@drawable/seting_image1"
+            android:layout_centerVertical="true"/>
+        <TextView 
+            android:id="@+id/seting_re1_tv5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dip"
+            android:textColor="@color/working_text_color1"
+            android:layout_toRightOf="@id/seting_re1_image5"
+            android:text="关于元海智云"/>
+        <ImageView 
+            android:id="@+id/seting_re1_image52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="8dip"
+            android:background="@drawable/more_image"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+
+</LinearLayout>
+
+<ImageView
+    android:id="@+id/seting_image5"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginTop = "20dip"
+    android:layout_marginLeft="20dip"
+    android:layout_marginRight="40dip"
+    android:layout_below="@+id/seting5"
+    android:background="@drawable/more" />
+
+<Button
+    android:id="@+id/exit"
+    android:layout_width="match_parent"
+    android:layout_height="40dip"
+    android:layout_below="@id/seting5"
+    android:layout_gravity="center"
+    android:textColor="@color/working_text_color"
+ 	android:textSize="16sp"
+    android:text="退出"
+    android:layout_marginTop = "20dip"
+    android:layout_marginLeft="20dip"
+    android:layout_marginRight="40dip"
+    android:background="@drawable/working_selector"/>
+
+</RelativeLayout>

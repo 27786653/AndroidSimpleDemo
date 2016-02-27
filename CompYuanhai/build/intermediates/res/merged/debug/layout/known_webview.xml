@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@color/white">
+     <RelativeLayout
+        android:id="@+id/known_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/working_top"
+         >
+
+      <Button
+            android:id="@+id/known_top_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/top_return_selector" />
+	 <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/tab_2"
+            android:textColor="@color/working_text_color"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+	  <Button
+            android:id="@+id/known_top_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dip"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/known_back_selector" />
+	 </RelativeLayout>
+    <WebView
+        android:id="@+id/known_layout_webview"
+        android:layout_below="@+id/known_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"/>
+
+</RelativeLayout>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEFF1" >
+
+    <RelativeLayout
+        android:id="@+id/working_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar" >
+
+        <Button
+            android:id="@+id/working_top_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/top_return_selector" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/hk_camera_video"
+            android:textColor="@color/working_text_color"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+    </RelativeLayout>
+    <LinearLayout
+        android:id="@+id/iamge_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/working_top"
+        android:orientation="vertical"
+        android:background="@color/white">
+    <com.component.view.XListView
+        android:id="@+id/work_list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/pb_center_color"
+        android:dividerHeight="1px"
+        android:footerDividersEnabled="true"
+        android:listSelector="@color/pb_start_color"
+        android:background="@color/lightwhite"/>
+    </LinearLayout>
+
+</RelativeLayout>

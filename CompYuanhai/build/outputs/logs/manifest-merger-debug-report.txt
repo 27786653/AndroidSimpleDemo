@@ -1,0 +1,289 @@
+-- Merging decision tree log ---
+manifest
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:2:1-226:12
+	xmlns:android
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:2:11-69
+	package
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:3:5-31
+	android:versionName
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:5:5-30
+		INJECTED from I:\comp\company_04\yuanhai\AndroidManifest.xml
+		INJECTED from I:\comp\company_04\yuanhai\AndroidManifest.xml
+	android:versionCode
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:4:5-28
+		INJECTED from I:\comp\company_04\yuanhai\AndroidManifest.xml
+		INJECTED from I:\comp\company_04\yuanhai\AndroidManifest.xml
+uses-sdk
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:7:5-43
+	android:minSdkVersion
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:7:15-40
+uses-permission#android.permission.CALL_PHONE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:10:5-69
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:10:22-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.CHANGE_CONFIGURATION
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.INTERNET
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:15:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:18:2-81
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:18:19-78
+uses-permission#android.permission.CAMERA
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:20:2-62
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:20:19-59
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:21:2-68
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:21:19-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:25:2-76
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:25:19-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:26:2-78
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:26:19-75
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:27:2-70
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:27:19-67
+uses-permission#android.permission.VIBRATE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:28:2-63
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:28:19-60
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:30:2-72
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:30:19-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:31:2-78
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:31:19-75
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:32:2-73
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:32:19-70
+uses-feature#0x00020000
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:34:3-76
+	android:required
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:34:50-73
+	android:glEsVersion
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:34:17-49
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:35:5-79
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:35:26-76
+supports-gl-texture#GL_OES_compressed_paletted_texture
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:36:26-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:41:2-92
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:41:19-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:47:2-89
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:47:19-70
+uses-permission#android.permission.READ_LOGS
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:57:2-81
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:57:19-62
+application
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:60:5-224:19
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:62:9-41
+	android:icon
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:61:9-45
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:64:9-60
+	android:launchMode
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:63:9-40
+service#com.baidu.location.f
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:67:9-113
+	android:process
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:67:77-102
+	android:enabled
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:67:54-76
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:67:18-53
+activity#com.yuanhai.test.FlashActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:69:9-81:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:70:13-45
+	android:theme
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:74:13-60
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:73:13-58
+	android:launchMode
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:72:13-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:76:13-80:29
+action#android.intent.action.MAIN
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:77:17-69
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:77:25-66
+category#android.intent.category.LAUNCHER
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:79:17-77
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:79:27-74
+activity#com.yuanhai.test.MonitorActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:84:9-88:16
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:86:9-45
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:87:9-45
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:85:9-40
+activity#com.yuanhai.test.LoginActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:91:9-95:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:93:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:94:13-44
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:92:13-58
+activity#com.yuanhai.test.ShouShiActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:96:9-100:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:98:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:99:13-45
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:97:13-60
+activity#com.yuanhai.test.SetPasswordActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:108:9-112:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:110:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:111:13-45
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:109:13-64
+activity#com.yuanhai.test.MainActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:113:9-117:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:115:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:116:13-42
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:114:13-57
+activity#com.yuanhai.test.Info_Fragment.NoticeActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:118:10-122:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:121:13-48
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:119:13-73
+activity#com.yuanhai.test.Info_Fragment.NoticeIteamActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:123:9-127:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:126:13-48
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:124:13-78
+activity#com.yuanhai.test.Info_Fragment.WorkingActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:129:9-133:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:131:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:132:13-55
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:130:13-74
+activity#com.yuanhai.test.Info_Fragment.WorkListActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:135:9-139:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:138:13-55
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:136:13-75
+activity#com.yuanhai.test.More_Fragment.MoreIteamActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:148:10-153:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:151:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:152:13-42
+	android:hardwareAccelerated
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:150:13-48
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:149:13-76
+activity#com.yuanhai.test.Info_Fragment.AdActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:154:10-158:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:156:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:157:13-47
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:155:13-69
+activity#com.yuanhai.test.Info_Fragment.LiveVideoActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:159:9-163:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:162:13-49
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:160:13-76
+activity#com.yuanhai.test.Info_Fragment.VideoPlayActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:164:9-168:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:166:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:167:13-49
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:165:13-76
+activity#com.yuanhai.test.Info_Fragment.HKCameraChioesListActivity
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:170:9-173:20
+	android:screenOrientation
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:171:13-49
+	android:label
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:172:13-49
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:170:19-75
+receiver#com.yhzl.utility.PushMessageReceiver
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:182:9-190:20
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:182:19-70
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:183:13-189:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:185:17-87
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:185:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:187:17-87
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:187:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:188:17-98
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:188:25-95
+meta-data#api_key
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:222:9-86
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:222:20-42
+	android:value
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:222:43-83
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:223:9-102
+	android:name
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:223:20-59
+	android:value
+		ADDED from I:\comp\company_04\yuanhai\AndroidManifest.xml:223:60-100

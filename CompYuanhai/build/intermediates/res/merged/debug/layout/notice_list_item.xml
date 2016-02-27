@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dip"
+    android:padding ="10dip"
+    android:background="@drawable/notice_bk" >
+    
+    	<ImageView 
+	        android:id="@+id/notice_iteam_image"
+	        android:scaleType="fitXY"
+	        android:layout_width="80dip"
+	        android:layout_height="80dip"
+	        android:layout_alignParentLeft="true"
+	        android:background="@drawable/notice_iteam_image" />
+        <TextView 
+            android:id="@+id/notice_iteam_bigtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/notice_iteam_image"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:textColor="@color/pb_start_color"
+            android:paddingLeft="5dip" />
+        <TextView 
+            android:id="@+id/notice_iteam_smarlltitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:layout_toRightOf="@id/notice_iteam_image"
+            android:layout_below="@id/notice_iteam_bigtitle"
+            android:singleLine="false"
+		    android:maxLines="3"
+            android:paddingLeft="5dip" />
+        <TextView 
+            android:id="@+id/notice_iteam_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/notice_iteam_image"
+            android:layout_alignBottom="@id/notice_iteam_image"
+            android:paddingLeft="5dip" />
+</RelativeLayout>

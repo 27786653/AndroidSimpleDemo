@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <RelativeLayout 
+        android:id="@+id/iteam_intent_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         android:background="@drawable/bottom_bar" >
+        <ImageView
+            android:id="@+id/notic_top_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:background="@drawable/notice_back" />
+       
+        </RelativeLayout>
+        <RelativeLayout 
+            android:layout_below="@id/iteam_intent_top"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white">
+		        <WebView
+		        android:id="@+id/wv_webview"
+		        android:layout_width="match_parent"
+		        android:layout_height="match_parent"/>
+		</RelativeLayout>
+</RelativeLayout>

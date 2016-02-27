@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<color name="bgColor">#FFFFFF</color>
+	<color name="TextColor">#FFFFF0</color>
+	<color name="lightwhite">#ddd</color>
+	<color name="white">#fff</color>
+     <!--  loading --> 
+	<color name="pb_start_color">#000000</color> 
+	<color name="pb_center_color">#7B7B7B</color> 
+	<color name="pb_end_color">#F0F0F0</color> 
+	<color name="working_text_color">#fff</color>
+	<color name="working_text_color1">#000000</color> <!-- 黑色 -->
+	<color name="info_bottom_color">#FFFF99</color> <!-- 黄色 -->
+	<color name="video_text_color">#828282</color>
+</resources>

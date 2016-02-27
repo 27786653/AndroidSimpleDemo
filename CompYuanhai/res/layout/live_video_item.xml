@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dip"
+    android:background="@drawable/video_item_bk" 
+    >
+    
+    <ImageView
+        android:id="@+id/video_view"
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+		android:background="@drawable/video_item" 
+		android:layout_alignParentLeft = "true"
+		android:layout_centerVertical = "true"
+		android:layout_marginLeft = "20dip"
+		android:layout_marginRight = "20dip"
+	/>
+    
+    <TextView
+        android:id="@+id/video_text"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_toRightOf = "@id/video_view"
+		android:textColor="@color/video_text_color"
+		android:layout_centerVertical = "true"
+		android:textStyle="bold"
+		android:textSize="20sp" />
+       
+    <ImageView
+        android:id="@+id/video_select"
+        android:layout_width="wrap_content"  
+        android:layout_height="wrap_content"  
+		android:background="@drawable/unselect" 
+		android:layout_alignParentRight = "true"
+		android:layout_centerVertical = "true"
+		android:layout_marginRight = "18dip"
+	/>
+</RelativeLayout>

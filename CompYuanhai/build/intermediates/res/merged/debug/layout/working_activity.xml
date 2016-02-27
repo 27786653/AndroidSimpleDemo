@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white" >
+
+    <RelativeLayout
+        android:id="@+id/working_top"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar" >
+
+        <Button
+            android:id="@+id/working_top_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/top_return_selector" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/work_report_string"
+            android:textColor="@color/working_text_color"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+        
+        <Button
+            android:id="@+id/working_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dip"
+            android:text="@string/commit_btn"
+            android:textColor="@color/white"
+            android:background="@drawable/bar_button" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/working_top"
+        android:paddingBottom="20dip"
+        android:scrollY="30dip" >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip" >
+			
+            <TextView
+                android:id="@+id/working_location_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dip"
+                android:text="@string/get_my_location"
+                android:layout_alignParentTop ="true"
+                android:textColor="@color/working_text_color1" />
+            
+            <RelativeLayout
+                android:id="@+id/working_name"
+                android:layout_below="@+id/working_location_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+
+                <TextView
+                    android:id="@+id/working_name_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/name"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_name_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:inputType = "text"
+                    android:layout_marginRight="15dip" />
+
+                <ImageView
+                    android:id="@+id/name_image"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignRight="@id/working_name_edt"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:background="@drawable/working_name_edt"
+                    android:contentDescription = "@string/name" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/working_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_name"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_time_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/time"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_time_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dip"
+                    android:inputType = "text" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/working_visit"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_time"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_visit_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/Visit"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_visit_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dip" 
+                    android:inputType = "textMultiLine"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/working_talk"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_visit"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_talk_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/talk"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_talk_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dip"
+                    android:inputType = "textMultiLine" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/working_com"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_talk"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_com_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/Customer"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_com_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="100dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dip" 
+                    android:inputType = "textMultiLine"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/working_mark"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_com"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_mark_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/mark"
+                    android:textColor="@color/working_text_color1" />
+
+                <EditText
+                    android:id="@+id/working_mark_edt"
+                    android:layout_width="260dip"
+                    android:layout_height="100dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="15dip" 
+                    android:inputType = "textMultiLine"/>
+            </RelativeLayout>
+            
+             <RelativeLayout
+                android:id="@+id/working_image"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/working_mark"
+                android:layout_marginTop="5dip" >
+
+                <TextView
+                    android:id="@+id/working_image_text"
+                    android:layout_width="80dip"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="15dip"
+                    android:text="@string/paizhao"
+                    android:textColor="@color/working_text_color1" />
+				
+                <ImageView
+	                android:id="@+id/working_image_select"
+	                android:layout_width="wrap_content"
+	                android:layout_height="wrap_content"
+	                android:layout_marginLeft="90dip"
+	                android:layout_centerVertical="true"
+	                android:background="@drawable/working_phele" />
+                
+                <ImageView
+                    android:id="@+id/imageshow"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dip"
+                    android:layout_toRightOf="@id/working_image_select"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="15dip" 
+                    android:layout_centerVertical="true"
+                />
+			</RelativeLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

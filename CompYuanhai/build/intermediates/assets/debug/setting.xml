@@ -1,0 +1,36 @@
+<YHZL>
+    <VER>1.0</VER>
+    <VIDEO_SERVER>app.yuhi.com.cn</VIDEO_SERVER>
+    <VIDEO_PORT>7777</VIDEO_PORT>
+    
+	<!--Web service url-->
+	<WS_URL>http://app.yuhi.com.cn:8080/yh/services/LoginWS.jws</WS_URL>
+	<WS_DATA_URL>http://app.yuhi.com.cn:8080/yh/services/WorktalkWS.jws</WS_DATA_URL>
+	<WS_NOTICE_LIST_URL>http://app.yuhi.com.cn:8080/yh/services/NoticeWS.jws</WS_NOTICE_LIST_URL>
+	<WS_NOTICE_URL></WS_NOTICE_URL>
+	<WS_ORDER_LIST_URL>http://app.yuhi.com.cn:8080/yh/services/OrderWS.jws</WS_ORDER_LIST_URL>
+
+	<MORE_URL>http://app.yuhi.com.cn:8080/yh/servlet/showpage?eventID=61002&&project_res=ws.column.list&&code=</MORE_URL>
+	
+	<!--App first run,1 is first run,0 is not first-->
+	<IS_FIRST_RUN>1</IS_FIRST_RUN>
+
+	<!--Loading images,May be multiple-->
+	<LOADING_IMAGES>
+		<LOADING_IMAGE>
+			<NAME>w01.png</NAME>
+			<!--1 always show, 2 only show when app first run-->
+			<SHOW_TYPE>1</SHOW_TYPE>
+		</LOADING_IMAGE>
+
+		<LOADING_IMAGE>
+			<NAME>w03.png</NAME>
+			<SHOW_TYPE>2</SHOW_TYPE>
+		</LOADING_IMAGE>
+		
+		<LOADING_IMAGE>
+			<NAME>w02.png</NAME>
+			<SHOW_TYPE>2</SHOW_TYPE>
+		</LOADING_IMAGE>
+	</LOADING_IMAGES>
+</YHZL>

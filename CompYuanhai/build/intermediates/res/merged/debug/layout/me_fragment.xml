@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEFF1" >
+
+    <RelativeLayout
+        android:id="@+id/notic_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/me"
+            android:textColor="@color/working_text_color"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/top_refresh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dip"
+            android:background="@drawable/top_fresh_selector" />
+
+    </RelativeLayout>
+
+    <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/notic_rlayout"
+        android:orientation="vertical"
+        android:background="@color/white">
+       	<com.component.view.XListView
+			android:id="@+id/me_list"
+			android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:footerDividersEnabled="true"
+            android:dividerHeight="1px"
+            android:divider="@color/pb_center_color"
+            android:listSelector="@color/pb_start_color" />
+
+    </LinearLayout>
+
+    
+    <TextView
+        android:id="@+id/no_order"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="@string/no_order"
+        android:textColor="@color/video_text_color"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

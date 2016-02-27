@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/mainRLayout"
+    android:background="#000000"
+    >
+    <com.yuanhai.test.MyScrollLayout
+       xmlns:android="http://schemas.android.com/apk/res/android"    
+	  android:id="@+id/ScrollLayout"    
+	  android:layout_width="fill_parent"    
+	  android:layout_height="fill_parent"
+	  android:visibility="visible"
+	  >
+      
+    </com.yuanhai.test.MyScrollLayout>
+   <LinearLayout 
+    	android:orientation="horizontal" 
+    	android:id="@+id/llayout" 
+    	android:layout_width="wrap_content" 
+    	android:layout_height="wrap_content" 
+    	android:layout_marginBottom="24.0dip" 
+    	android:layout_alignParentBottom="true" 
+    	android:layout_centerHorizontal="true"
+    	android:visibility="visible">
+    	
+        <ImageView 
+            android:clickable="true"  
+            android:padding="5.0dip" 
+            android:layout_gravity="center_vertical" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:src="@drawable/page_indicator_bg" />
+        <ImageView 
+            android:clickable="true"  
+            android:padding="5.0dip"  
+            android:layout_gravity="center_vertical" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:src="@drawable/page_indicator_bg" />
+       
+        <ImageView
+            android:clickable="true"  
+            android:padding="5.0dip"  
+            android:layout_gravity="center_vertical" 
+            android:layout_width="wrap_content" 
+            android:layout_height="wrap_content" 
+            android:src="@drawable/page_indicator_bg" />
+    </LinearLayout>
+    <LinearLayout android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:visibility="gone"
+        android:id="@+id/animLayout"
+        >
+        <LinearLayout
+            android:id="@+id/leftLayout" 
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/whatsnew_left"/>
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/whatsnew_left_m"/>
+        </LinearLayout>
+        <LinearLayout 
+            android:id="@+id/rightLayout" 
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/whatsnew_right_m"/>
+        <ImageView android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:src="@drawable/whatsnew_right"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

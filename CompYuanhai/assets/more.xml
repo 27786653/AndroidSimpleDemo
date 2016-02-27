@@ -1,0 +1,74 @@
+<YHZL name="生活">
+
+    <item name="公共服务">
+        <line>
+            <button name="缴物业费" image="image1" url_id="k1001" />
+            <button name="缴停车费" image="image2" url_id="k1002" />
+            <button name="投诉建议" image="i416_16" url_id="k1003" />
+            <button name="工程报修" image="image3" url_id="k1004" />
+        </line>
+    </item>
+	
+    <item name="生活到家">
+        <line>
+            <button name="商城" image="i415_370" url_id="l1001" />
+            <button name="周边商圈" image="i416_370" url_id="l1002" />
+            <button name="家政服务" image="i416_120" url_id="l1003" />
+            <button name="衣鞋干洗" image="i416_42" url_id="l1004" />
+        </line>
+        <line>
+            <button name="家居安防" image="i416_270" url_id="l1005" />
+            <button name="物业租售" image="image1" url_id="l1006" />
+            <button name="免佣租房" image="image15" url_id="l1007" />
+            <button name="家教培训" image="i4_27" url_id="l1008" />
+        </line>
+        <line>
+            <button name="家电维修" image="i4_03" url_id="l1009" />
+            <button name="管道疏通" image="image16" url_id="l1010" />
+          <button name="开锁换锁" image="i416_270" url_id="l1011" />
+          <button name="搬运服务" image="i415_440" url_id="l1012" />
+        </line>
+    </item>
+    
+    <item name="便民服务">
+        <line>
+            <button name="金融服务" image="image9" url_id="m1001" />
+            <button name="酒店" image="i4_42" url_id="m1002" />
+            <button name="机票" image="i416_16" url_id="m1003" />
+            <button name="电影票" image="i4_26" url_id="m1004" />
+        </line>
+        <line>
+            <button name="彩票" image="image14" url_id="m1005" />
+            <button name="鲜花礼品" image="i4_05" url_id="m1006" />
+            <button name="优惠券" image="image14" url_id="m1007" />
+            <button name="租车服务" image="i415_440" url_id="m1008" />
+        </line>
+      <line>
+        <button name="运动健身" image="i416_34" url_id="m1009" />
+        <button name="美容养生" image="i416_35" url_id="m1010" />
+        <button name="快递服务" image="i4_22" url_id="m1011" />
+
+      </line>
+    </item>
+  
+  
+    <item name="代理缴费">
+      <line>
+        <button name="手机费" image="i416_29" url_id="n1001" />
+        <button name="电话费" image="image10" url_id="n1002" />
+        <button name="水费" image="i4_28" url_id="n1003" />
+
+      </line>
+
+      <line>
+
+        <button name="电费" image="i4_23" url_id="n1004" />
+        <button name="燃气费" image="image16" url_id="n1005" />
+      </line>
+    </item>
+
+
+
+  </YHZL>
+
+

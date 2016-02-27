@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/more_item_relative_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:padding ="8dip"
+    android:orientation="vertical"
+    >
+    <Button 
+        android:id="@+id/more_btn_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/image1_selector"/>
+    <TextView 
+        android:id="@+id/more_btn_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/working_text_color1"
+        android:paddingTop ="3dip"
+        android:layout_gravity="center_horizontal"
+		android:text="TextView"/>
+</LinearLayout>

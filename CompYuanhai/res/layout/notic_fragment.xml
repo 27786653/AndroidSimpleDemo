@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#EDEFF1" >
+
+    <RelativeLayout
+        android:id="@+id/notic_rlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bottom_bar" >
+
+        <Button
+            android:id="@+id/notic_top_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:background="@drawable/top_return_selector" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/notic_string"
+            android:textColor="@color/working_text_color"
+            android:textStyle="bold"
+            android:textSize="20sp" />
+
+        <Button
+            android:id="@+id/notic_top_refalsh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="5dip"
+            android:background="@drawable/top_fresh_selector" />
+
+    </RelativeLayout>
+
+    <LinearLayout 
+        android:id="@+id/iamge_list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/notic_rlayout"
+        android:orientation="vertical"
+        android:background="@color/white">
+       	<com.component.view.XListView
+			android:id="@+id/notice_list"
+			android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:footerDividersEnabled="true"
+            android:dividerHeight="1px"
+            android:divider="@color/pb_center_color"
+            android:listSelector="@color/pb_start_color" />
+           
+    </LinearLayout>
+</RelativeLayout>
