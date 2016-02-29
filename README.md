@@ -12,4 +12,4 @@
 	4.LeanerPullToRefresh (实现下拉刷新。01是系统控件实现方式,02是集成第三方插件实现)   
 	5.DemoHKVideoPlayer(案例，Android集成海康威视视频监控)
 	6.CompYuanhai(集成多项功能，开发版)			
-
+	7.LeanerNFCdemo(使用NFC开发的巡检签证模块)	
