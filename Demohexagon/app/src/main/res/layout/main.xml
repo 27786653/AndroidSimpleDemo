@@ -1,0 +1,118 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:sec="http://schemas.android.com/apk/res/com.mh.example.polygon"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context="cn.com.mh.example.polygon"
+    tools:ignore="MergeRootFrame">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <!--<TextView-->
+        <!--android:layout_width="@dimen/dip_100"-->
+        <!--android:layout_height="@dimen/dip_100"-->
+        <!--android:id="@+id/center"-->
+        <!--android:textColor="@android:color/black"-->
+        <!--android:textSize="@dimen/sp_30"-->
+        <!--android:text="@string/center"-->
+        <!--android:gravity="center"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_centerHorizontal="true"/>-->
+        <!--中：其他向此靠拢-->
+        <com.mh.widget.HexagonView
+            android:id="@+id/center"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            sec:src="@drawable/property_home_no_moudle_1"
+            sec:textSize="15sp" />
+
+        <com.mh.widget.HexagonView
+            android:id="@+id/hexagon_hello"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_above="@+id/center"
+            android:layout_centerHorizontal="true"
+            sec:src="@drawable/property_complain_1"
+            sec:textSize="15sp" />
+        <!--设置背景 sec:src="@drawable/home_car"-->
+        <com.mh.widget.HexagonView
+            android:id="@+id/hexagon_car"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_alignBottom="@+id/center"
+            android:layout_marginBottom="@dimen/dip_50"
+            android:layout_marginLeft="-10dp"
+            android:layout_toEndOf="@+id/center"
+            sec:src="@drawable/property_icon_member_1"
+            sec:textSize="15sp" />
+
+        <com.mh.widget.HexagonView
+            android:id="@+id/three"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_alignTop="@+id/center"
+            android:layout_marginLeft="-10dp"
+            android:layout_marginTop="@dimen/dip_50"
+            android:layout_toEndOf="@+id/center"
+            sec:src="@drawable/property_money_1"
+            sec:textSize="15sp" />
+
+        <com.mh.widget.HexagonView
+            android:id="@+id/four"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_below="@+id/center"
+            android:layout_centerHorizontal="true"
+            sec:src="@drawable/property_notice_1"
+            sec:textSize="15sp" />
+
+        <com.mh.widget.HexagonView
+            android:id="@+id/five"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_alignTop="@+id/center"
+            android:layout_marginRight="-10dp"
+            android:layout_marginTop="@dimen/dip_50"
+            android:layout_toStartOf="@+id/center"
+            sec:src="@drawable/property_repair_1"
+            sec:textSize="15sp" />
+
+        <com.mh.widget.HexagonView
+            android:id="@+id/six"
+            android:layout_width="@dimen/dip_100"
+            android:layout_height="@dimen/dip_100"
+            android:layout_alignBottom="@+id/center"
+            android:layout_marginBottom="@dimen/dip_50"
+            android:layout_marginRight="-10dp"
+            android:layout_toStartOf="@+id/center"
+            sec:src="@drawable/property_zan_1"
+            sec:textSize="15sp" />
+
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <Button
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="text"
+            />
+        <Button
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="text"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

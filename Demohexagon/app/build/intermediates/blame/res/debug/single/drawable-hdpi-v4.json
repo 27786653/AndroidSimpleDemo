@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_icon_member_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_icon_member_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_money_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_money_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_notice_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_notice_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_repair_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_repair_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_complain_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_complain_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_icon_member_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_icon_member_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_repair_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_repair_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_money_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_money_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_complain_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_complain_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_notice_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_notice_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_zan_2.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_zan_2.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_zan_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_zan_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\property_home_no_moudle_1.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\property_home_no_moudle_1.png"
+    },
+    {
+        "merged": "D:\\Android-Hexagon-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\Android-Hexagon-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

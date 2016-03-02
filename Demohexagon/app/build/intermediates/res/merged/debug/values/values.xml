@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HexagonView"><attr format="string" name="text"/><attr format="dimension" name="textSize"/><attr format="color" name="textColor"/><attr format="color" name="backColor"/><attr format="reference" name="src"/></declare-styleable>
+    <dimen name="dip_10">10dip</dimen>
+    <dimen name="dip_100">100dip</dimen>
+    <dimen name="dip_130">130dip</dimen>
+    <dimen name="dip_200">200dip</dimen>
+    <dimen name="dip_50">50dip</dimen>
+    <dimen name="dip_90">90dip</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_22">22sp</dimen>
+    <dimen name="sp_30">30sp</dimen>
+    <string name="app_name">Hexagon</string>
+    <string name="center">中</string>
+    <string name="hello">Hello</string>
+    <string name="hexagon">六边形</string>
+    <string name="ok">确定</string>
+</resources>
