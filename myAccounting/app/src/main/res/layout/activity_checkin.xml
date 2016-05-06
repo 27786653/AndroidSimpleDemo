@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:focusable="true"
+    android:background="@color/common_bgcolor"
+    android:focusableInTouchMode="true"
+    >
+    <RelativeLayout
+        android:id="@+id/checkin_top_bar"
+        android:layout_width="match_parent"
+        android:background="#30AEF4"
+        android:layout_height="50dp">
+        <ImageView
+            android:id="@+id/btn_checkin_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="5dip"
+            android:onClick="onClick"
+            android:padding="5dip"
+            android:background="@drawable/common_title_back_selector"
+            />
+        <TextView
+            android:id="@+id/checkin_text"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:text="签到"
+            android:textColor="#fff"
+            android:textSize="18sp" />
+        <Button
+            android:id="@+id/btn_checkin_newReprot"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_marginRight="15dp"
+            android:onClick="onClick"
+            android:background="@drawable/report_add"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true" />
+
+    </RelativeLayout>
+    <ImageView
+        android:layout_below="@+id/checkin_top_bar"
+        android:id="@+id/line"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:background="#30AEF4" />
+    <LinearLayout
+        android:layout_below="@+id/line"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:paddingRight="10dp"
+            android:elevation="4dp"
+            android:background="#30AEF4">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="最美记账"
+                android:textColor="@color/white"
+                android:id="@+id/textView3"
+                android:layout_above="@+id/textView10"
+                android:layout_alignLeft="@+id/textView10"
+                android:layout_alignStart="@+id/textView10" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_marginBottom="5dp"
+                android:text="星期五"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:id="@+id/textView10"
+                android:layout_centerVertical="true"
+                android:layout_alignLeft="@+id/textView9"
+                android:layout_alignStart="@+id/textView9" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2016-4-15"
+                android:id="@+id/textView9"
+                android:textColor="@color/white"
+                android:layout_below="@+id/textView10"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_marginLeft="26dp"
+                android:layout_marginStart="26dp" />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:text="签到记录"
+                android:textColor="@color/white"
+                android:paddingLeft="5dp"
+                android:paddingRight="5dp"
+                android:background="@drawable/btn_style_checkin"
+                android:layout_below="@+id/textView3"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+        <ListView
+            android:id="@+id/checkin_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:footerDividersEnabled="true"
+            android:cacheColorHint="#fff"
+            android:divider="#dcdbdb"
+            android:dividerHeight="1px"
+            android:headerDividersEnabled="false"
+            android:listSelector="@color/common_bgcolor" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

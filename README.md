@@ -13,5 +13,5 @@
 	5.DemoHKVideoPlayer(案例，Android集成海康威视视频监控)
 	6.CompYuanhai(集成多项功能，开发版)			
 	7.LeanerNFCdemo(使用NFC开发的巡检签证模块)
-	8.Demohexagon(六边形自定义Demo)	
-aaaa
+	8.Demohexagon(六边形自定义Demo)	  
+	9.myAccounting(记账应用正在开发中..)
