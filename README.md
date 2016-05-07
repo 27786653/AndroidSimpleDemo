@@ -15,3 +15,4 @@
 	7.LeanerNFCdemo(使用NFC开发的巡检签证模块)
 	8.Demohexagon(六边形自定义Demo)	  
 	9.myAccounting(记账应用正在开发中..)
+	10.WifiDemo(因母亲时常吧wifi忘记密码又不会输入密码，做了一个wifi链接管理(自动输入密码,自动打开wifi,高亮等等))
